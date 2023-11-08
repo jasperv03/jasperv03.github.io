@@ -40,8 +40,5 @@ Jasper
 <div id="col3">
 <img src="All_Images_lab12/nyc.jpg" alt="Three Brothers in NYC">
 </div>
-
-
-
 </body>
 </html>
