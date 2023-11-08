@@ -36,6 +36,7 @@ function swap(pic){document.getElementById("husk").src=pic;
 <p>I'm sad that you weren't able to come to Family Weekend or my recital. However, I know you are having a great time back home! I hope that A Midsummer Night's Dream goes well this weekend. Break a leg. Grady and I can't wait to see you soon!<br>
 Love, your brother,
 Jasper
+</p>
 </div>
 <div id="col3">
 <img src="All_Images_lab12/nyc.jpg" alt="Three Brothers in NYC">
