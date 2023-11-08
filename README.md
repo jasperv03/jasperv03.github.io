@@ -1,9 +1,9 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>Lab 12</title>
 <meta charset="utf-8">
 <!--My Lab 12 Jasper Vasilevskis H02 11/01/2023-->
-</head>
 <style>
 h1{text-align:center;
 font-size:120pt}
@@ -26,6 +26,7 @@ left: 750px}
 function swap(pic){document.getElementById("husk").src=pic;
 }
 </script>
+  </head>
 <body>
 <h1>Miss You Buddy!</h1>
 <div id="col1" onmouseover="swap('All_Images_lab12/bagel.jpg')">
