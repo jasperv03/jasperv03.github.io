@@ -25,8 +25,8 @@ left: 750px}
 <script>
 function swap(pic){document.getElementById("husk").src=pic;
 }
-</script>
-  </head>
+</script> 
+</head>
 <body>
 <h1>Miss You Buddy!</h1>
 <div id="col1" onmouseover="swap('All_Images_lab12/bagel.jpg')">
@@ -40,8 +40,5 @@ Jasper
 <div id="col3">
 <img src="All_Images_lab12/nyc.jpg" alt="Three Brothers in NYC">
 </div>
-
-
-
 </body>
 </html>
