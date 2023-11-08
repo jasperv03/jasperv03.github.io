@@ -29,7 +29,7 @@ function swap(pic){document.getElementById("husk").src=pic;
 </script>
 <body>
 <h1>Miss You Buddy!</h1>
-<div id="col1" onmouseover="swap('All_Images_lab12/bagel.jpg')">
+<div id="col1" onmouseover="swap('All_Images_lab12/bagel.jpg');">
 <img src="All_Images_lab12/husk.jpg" alt="Emmit and Jasper at Husk" id="husk">
 </div>
 <div id="col2">
