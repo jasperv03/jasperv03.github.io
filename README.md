@@ -1,4 +1,3 @@
-# jasperv03.github.io
 <html lang="en">
 <head>
 <title>Lab 12</title>
